@@ -1,0 +1,8 @@
+{
+  "prefix" : ",",
+  "db": "mongodb+srv://user:tnJJuH6IyKy7qn6E@cluster0.iv60t.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "color": "BLUE",
+    "error": "RED",
+    "success": "GREEN",
+  "AME_API":"0f227371b2ca3e34eef0405ae054197c61e46f77e335bbda7c58e340513d21dedccae7d69a26a33effa2c86f0a5a87a55562f72a078fe0dfc45236a82767870c"
+  }
